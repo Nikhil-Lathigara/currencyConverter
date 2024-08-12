@@ -30,7 +30,7 @@ function App() {
     <div
         className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
-            backgroundImage: `url('./bg-img.jpg')`,
+            backgroundImage: `url('https://data.bis.org/_next/image?url=%2Fstatic%2Fimages%2Ftopics%2FXRU_header.png&w=3840&q=75')`,
         }}
     >
         <div className="w-full">
